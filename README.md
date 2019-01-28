@@ -1,0 +1,1 @@
+# vickers_pratt_logo_animation
